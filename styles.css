@@ -214,3 +214,39 @@ a{
      width: 300px;
     height: 270px;
 }
+.main-foot{
+    border-radius: 10px;
+    width: 1200px;
+    height: 420px;
+    text-align: center;
+    justify-self: center;
+    margin-top: 70px;
+    margin-bottom: 80px;
+    background-color: #FFF2F1;
+}
+.foot-title{
+    padding-top: 130px;
+    font-weight: 600;
+    font-size: 30px;
+    margin: 0;
+}
+.foot-info{
+    font-weight: 500;
+    font-size: 12px;
+    color: #707070;
+    margin: 0;
+}
+.em{
+    width: 600px;
+    height: 45px;
+    border-radius: 10px;
+    border: none;
+    background-color: white;
+    padding-left: 10px;
+    font-weight: 400;
+    font-size: 20px;
+    margin-top: 15px;
+}
+::placeholder{
+    color: #CCCCCC;
+}
