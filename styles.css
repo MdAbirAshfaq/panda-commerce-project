@@ -84,6 +84,55 @@ a{
     font-weight: 500;
     font-size: 15px;
 }
-.arrow{
-    /* color: black; */
+.cate-content{
+    margin-left:150px ;
+    margin-right:120px ;
+    align-items:flex-start;
+}
+.main-cate{
+    display: flex;
+    justify-content: space-around;
+}
+.watch{
+    display: flex;
+    background-color: #FFD019;
+    align-items: center;
+    color: white;
+    font-weight:900;
+    font-size: 30px;
+    padding-left: 40px;
+    justify-content: space-between;
+    width: 280px ;
+    height: 110px;
+    border-radius: 12px;
+}
+.bag{
+    display: flex;
+    background-color: #FF136F;
+    align-items: center;
+    color: white;
+    font-weight:900;
+    font-size: 30px;
+    padding-left: 40px;
+    justify-content: space-between;
+    width: 280px ;
+    height: 110px;
+    border-radius: 12px;
+}
+.shoe{
+    display: flex;
+    background-color: #3F07F8;
+    align-items: center;
+    color: white;
+    font-weight:900;
+    font-size: 30px;
+    padding-left: 40px;
+    justify-content: space-between;
+    width: 280px ;
+    height: 110px;
+    border-radius: 12px;
+}
+.cate-img{
+    width: 95px;
+    height: 100px;
 }
